@@ -1,4 +1,4 @@
-# Hi, I'm K1
+# Hi, I'm Henry
 
 I am a 16 y.o. software development student living in Mexico. I ❤️ to code everything that I can imagine.
 
@@ -9,6 +9,6 @@ I am a 16 y.o. software development student living in Mexico. I ❤️ to code e
 <details>
   <summary>Estadisticas de github</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=k1-1960&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1-1960&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ewwhenry&theme=tokyonight&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewwhenry&layout=compact&theme=tokyonight&count_private=true&hide_border=true)</a>
 </details>
