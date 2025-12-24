@@ -1,6 +1,6 @@
 # Hi, I'm Henry
 
-I am a 16 y.o. software development student living in Mexico. I ❤️ to code everything that I can imagine.
+I am a 17 y.o. software development student living in Mexico. I ❤️ to code everything that I can imagine.
 
 ###### Sleep in the morning, code in the afternoon, and code more at night. Code for fun.
 
