@@ -24,6 +24,7 @@ Durante esta etapa reforcé conocimientos en **bases de datos**, **programación
 ### Maquinaria del Humaya · John Deere
 
 **Desarrollador en Área de TI**
+
 *Septiembre 2025 – Enero 2026*
 
 Como parte del programa educativo de mi preparatoria, participé en un entorno laboral real donde apliqué mis conocimientos de informática y desarrollo de software.
