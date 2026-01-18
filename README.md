@@ -1,33 +1,35 @@
-# Hola, soy Henry 👋
+## Hola, soy Henry 👋
 
-Soy un desarrollador de software con más de 3 años construyendo aplicaciones web, PaaS, software empresarial y utilidades para el comodo desarrollo. Disfruto de encontrar y resolver cualquier problematica posible con código y algo de creatividad.
+Soy desarrollador de software con **experiencia práctica construyendo aplicaciones web, soluciones PaaS, software empresarial y herramientas de automatización**. Me gusta analizar problemas reales y resolverlos con código, combinando lógica y creatividad para mejorar procesos y flujos de trabajo.
 
-Tengo 17 años, nací y crecí en Sinaloa, México.
+Tengo 17 años y nací y crecí en Sinaloa, México.
 
 ## ⚡️ Habilidades
 
-- Lenguajes de programación: JavaScript, TypeScript, C, C++, Kotlin, Java, Dart, Swift, Python, Bash.
-- Librerias: React, ExcelJS, DiscordJS, Seyfert, OpenCV, Numpy, Puppeteer.
+* **Lenguajes principales:** JavaScript, TypeScript, Python
+* **Lenguajes adicionales:** C, C++, Java, Kotlin, Dart, Swift, Bash
+* **Librerías y herramientas:** React, ExcelJS, Discord.js, Seyfert, OpenCV, NumPy, Puppeteer
 
 ## 🎓 Educación
 
-### Preparatoria / Bachillerato
+### Preparatoria / Bachillerato Técnico
 
-Estudié un bachillerato técnico en **Informática** en el ***Colegio Nacional de Educación Profesional Técnica (CONALEP)*** en el plantel 115, Navolato, Sinaloa.
-Cursando un total de 6 semestres (3 años), obteniendo un promedio general de `99.7%` sobre `100%`
+Cursé un bachillerato técnico en **Informática** en el ***Colegio Nacional de Educación Profesional Técnica (CONALEP)***, plantel 115, Navolato, Sinaloa.
+Programa de 6 semestres (3 años), con un **promedio general de 99.7 / 100**.
 
-En esta etapa de mi educación, logré reforzar conocimientos sobre **bases de datos**, **programación web**, **programación para escritorio**, **Instalación de redes** y **mantenimiento a equipo de computo**, destacando por mi capacidad de aprendizaje y mi hablidad al resolver las problematicas practicas y logicas que se presentaban en actividades tanto individuales como en equipo.
+Durante esta etapa reforcé conocimientos en **bases de datos**, **programación web**, **desarrollo de aplicaciones de escritorio**, **instalación de redes** y **mantenimiento de equipo de cómputo**, destacando por mi rápida capacidad de aprendizaje y mi habilidad para resolver problemas prácticos y lógicos, tanto de forma individual como en equipo.
 
 ## 💼 Experiencia Laboral
 
-### Maquinaria del Humaya: John Deere (Septiembre 2025 - Enero 2026)
+### Maquinaria del Humaya · John Deere
 
-> Desarrollador en Area TI
+**Desarrollador en Área de TI**
+*Septiembre 2025 – Enero 2026*
 
-Como parte del programa educativo que maneja mi preparatoria, puse a prueba mis hablidades adquiridas sobre informatica en el campo laboral real.
+Como parte del programa educativo de mi preparatoria, participé en un entorno laboral real donde apliqué mis conocimientos de informática y desarrollo de software.
 
-En esta experiencia, pude desarrollar software capaz de procesar grandes cantidades de información y, de esta manera ayudar a ciertas areas de la empresa a trabajar de manera más eficiente.
+Durante esta experiencia desarrollé soluciones capaces de **procesar grandes volúmenes de información y automatizar tareas**, lo que permitió **agilizar procesos que anteriormente se realizaban de forma manual**, mejorando la eficiencia del personal y reduciendo tiempos operativos.
 
-#### 📦 Herramientas, lenguajes o librerias usadas
+#### 📦 Herramientas, lenguajes y librerías utilizadas
 
-Para llevar a cabo mis responsabilidades como desarrollador, hice uso de varios lenguajes de programación, pero los principales y más destacados fueron **TypeScript** y **Python**. Donde hice uso de librerias como exceljs (TS), python-opencv, numpy y tesseract (PY) para realizar software de automatización que manipulan datos y automatiza acciones del usuario.
+Utilicé principalmente **TypeScript** y **Python**, apoyándome en librerías como **ExcelJS**, **OpenCV**, **NumPy** y **Tesseract** para desarrollar software de automatización enfocado en el procesamiento de datos y la ejecución automática de acciones del usuario.
