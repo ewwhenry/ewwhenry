@@ -1,6 +1,6 @@
 ## Hola, soy Henry 👋
 
-Soy desarrollador de software con **experiencia práctica construyendo aplicaciones web, soluciones PaaS, software empresarial y herramientas de automatización**. Me gusta analizar problemas reales y resolverlos con código, combinando lógica y creatividad para mejorar procesos y flujos de trabajo.
+Soy desarrollador de software con **experiencia práctica construyendo aplicaciones web, software empresarial y herramientas de automatización**.
 
 Tengo 17 años y nací y crecí en Sinaloa, México.
 
