@@ -10,6 +10,12 @@ Tengo 17 años y nací y crecí en Sinaloa, México.
 * **Lenguajes adicionales:** C, C++, Java, Kotlin, Dart, Swift, Bash
 * **Librerías y herramientas:** React, ExcelJS, Discord.js, Seyfert, OpenCV, NumPy, Puppeteer
 
+## 🏋️ Hobbies
+* Gym
+* Estudiar
+* Escuchar música
+* Aprender cosas nuevas
+
 ## 🎓 Educación
 
 ### Preparatoria / Bachillerato Técnico
