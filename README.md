@@ -15,7 +15,7 @@ Tengo 17 años y nací y crecí en Sinaloa, México.
 ### Preparatoria / Bachillerato Técnico
 
 Cursé un bachillerato técnico en **Informática** en el ***Colegio Nacional de Educación Profesional Técnica (CONALEP)***, plantel 115, Navolato, Sinaloa.
-Programa de 6 semestres (3 años), con un **promedio general de 99.7 / 100**.
+Programa de 6 semestres (3 años), con un **promedio general de 100 / 100**.
 
 Durante esta etapa reforcé conocimientos en **bases de datos**, **programación web**, **desarrollo de aplicaciones de escritorio**, **instalación de redes** y **mantenimiento de equipo de cómputo**, destacando por mi rápida capacidad de aprendizaje y mi habilidad para resolver problemas prácticos y lógicos, tanto de forma individual como en equipo.
 
